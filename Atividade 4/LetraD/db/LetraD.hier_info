@@ -1,0 +1,7 @@
+|LetraD
+X <= inst.DB_MAX_OUTPUT_PORT_TYPE
+P => inst2.IN0
+Q => inst1.IN0
+W => inst.IN1
+
+

@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gian/Documents/UTFPR/Segundo Periodo/Circuitos digitais/Atividade 4/LetraC/simulation/qsim
+vhard_block
+Z1 !s110 1651111061
+!i10b 1
+!s100 h6G7IVmzANYN98dVJDF0j3
+I_N9QmG<fH2Hdbg=Q1aGDV3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1651111060
+Z4 8LetraC.vo
+Z5 FLetraC.vo
+L0 238
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1651111061.000000
+Z8 !s107 LetraC.vo|
+Z9 !s90 -work|work|LetraC.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vLetraC
+R1
+!i10b 1
+!s100 6U_W>8L94SzmUE21@lV>n2
+I9Wze0YcPR8Nl2NfYCGRa^2
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@letra@c
+vLetraC_vlg_vec_tst
+R1
+!i10b 1
+!s100 ogZWRe1mahCYDLfhh:7jQ2
+IICA4PV2bhWA5XA^ACeOF;3
+R2
+R0
+w1651111059
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@letra@c_vlg_vec_tst

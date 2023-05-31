@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Gian/Documents/UTFPR/Segundo Periodo/Circuitos digitais/Atividade 4/LetraD/letrad.bdf
+design_name = LetraD
+instance = comp, \X~output , X~output, LetraD, 1
+instance = comp, \Q~input , Q~input, LetraD, 1
+instance = comp, \P~input , P~input, LetraD, 1
+instance = comp, \W~input , W~input, LetraD, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, LetraD, 1

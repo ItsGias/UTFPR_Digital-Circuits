@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Gian/Documents/UTFPR/Segundo Periodo/Circuitos digitais/Atividade 4/LetraF/letraf.bdf
+design_name = LetraF
+instance = comp, \X~output , X~output, LetraF, 1
+instance = comp, \B~input , B~input, LetraF, 1
+instance = comp, \A~input , A~input, LetraF, 1
+instance = comp, \inst~0 , inst~0, LetraF, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, LetraF, 1

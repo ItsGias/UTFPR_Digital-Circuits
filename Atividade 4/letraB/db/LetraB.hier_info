@@ -1,0 +1,12 @@
+|LetraB
+Z <= inst12.DB_MAX_OUTPUT_PORT_TYPE
+B => inst10.IN0
+B => inst7.IN2
+C => inst3.IN1
+C => inst9.IN0
+D => inst11.IN0
+D => inst.IN1
+A => inst7.IN0
+E => inst8.IN0
+
+

@@ -1,0 +1,93 @@
+$comment
+	File created using the following command:
+		vcd file LetraD.msim.vcd -direction
+$end
+$date
+	Wed Apr 27 23:06:57 2022
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module LetraD_vlg_vec_tst $end
+$var reg 1 ! P $end
+$var reg 1 " Q $end
+$var reg 1 # W $end
+$var wire 1 $ X $end
+
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 , Q~input_o $end
+$var wire 1 - P~input_o $end
+$var wire 1 . W~input_o $end
+$var wire 1 / inst~combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+1"
+1#
+0$
+0%
+1&
+x'
+1(
+1)
+1*
+0+
+1,
+1-
+1.
+1/
+$end
+#10000
+0#
+0.
+0/
+1$
+#20000
+0"
+1#
+0,
+1.
+1/
+0$
+#30000
+0#
+0.
+#40000
+0!
+1"
+1#
+0-
+1,
+1.
+#50000
+0#
+0.
+0/
+1$
+#60000
+0"
+1#
+0,
+1.
+1/
+0$
+#70000
+0#
+0.
+0/
+1$
+#1000000
